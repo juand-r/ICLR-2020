@@ -233,6 +233,9 @@ See also:
 > TL;DR: "A method to explain a classifier, by generating visual perturbation of an image by exaggerating  or diminishing the semantic features that the classifier associates with a target label."
 >
 > Creating image counterfactuals with GANs.
+>
+> **From the discussion:** see [xGEMs: Generating Examplars to Explain Black-Box
+Models](https://arxiv.org/pdf/1806.08867.pdf)
 
 :heavy_minus_sign: [N-BEATS: Neural basis expansion analysis for interpretable time series forecasting](https://iclr.cc/virtual/poster_r1ecqn4YwB.html) [**(paper)**](https://openreview.net/pdf?id=r1ecqn4YwB)  [**(reviews)**](https://openreview.net/forum?id=r1ecqn4YwB)
 > TL;DR: "A novel deep interpretable architecture that achieves state of the art on three large scale univariate time series forecasting datasets."
