@@ -50,7 +50,9 @@
 
 - [Gopnik, Causal Learning in Children: When children are better learners than adults - or AI](https://slideslive.com/38926305/causal-learning-in-children-when-children-are-better-learners-than-adults-or-ai?ref=account-folder-46623-folders)
 
-- [Algorithmic Recourse: from Counterfactual Explanations to Interventions](https://slideslive.com/38926325/algorithmic-recourse-from-counterfactual-explanations-to-interventions?ref=account-folder-46623-folders) [(paper)](https://causalrlworkshop.github.io/pdf/CLDM_24.pdf)
+- [Karimi, Algorithmic Recourse: from Counterfactual Explanations to Interventions](https://slideslive.com/38926325/algorithmic-recourse-from-counterfactual-explanations-to-interventions?ref=account-folder-46623-folders) [(paper)](https://causalrlworkshop.github.io/pdf/CLDM_24.pdf)
+
+- [Neubig, The Low-resource Natural Language Processing Toolbox, 2020 Version](https://slideslive.com/38926604/the-lowresource-natural-language-processing-toolbox-2020-version?ref=account-folder-46632-folders)
 
 ### Workshops, see later
 
