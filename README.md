@@ -5,6 +5,8 @@
 
 ### Selections from ICLR 2020 (mostly NLP-related)
 
+See also: https://www.theexclusive.org/2020/05/virtual-iclr.html
+
 - [Workshops](#workshops)
 - [Socials](#socials)
 - [Keynotes](#keynotes)
