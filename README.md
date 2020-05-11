@@ -198,7 +198,7 @@ See also:
 >
 > **"Compound divergence"**: a more comprehensive measure than previous approaches, assuming that (1) all test atoms occur in training, (2) the distribution of atoms is similar in train and test and (3) distribution of compounds is different between train and test.  Compound divergence correlates well with previous ad-hoc methods.
 >
-> **Evaluation:** Compositional Freebase Questions (CFQ) and SCAN.  An LSTM+attention, Transformer and Universal Transformer are compared. Compound Divergence is a great predictor of accuracy! Current systems fail to generalize compositionally, even with large training data, while random split is easy. (But it appears Transformers outperform LSTM+attention by a wide margin for almost every value of compound divergence).
+> **Evaluation:** Compositional Freebase Questions (CFQ) and SCAN.  An LSTM+attention, Transformer and Universal Transformer are compared. Compound Divergence is a great predictor of accuracy! Current systems fail to generalize compositionally, even with large training data, while random split is easy. (But it appears Transformers outperform LSTM+attention by a wide margin for almost every value of compound divergence -- see also results on syntactic generalization in https://arxiv.org/pdf/2005.03692.pdf )
 
 
 :heavy_minus_sign: [Environmental drivers of systematicity and generalization in a situated agent](https://iclr.cc/virtual/poster_SklGryBtwr.html)   [**(paper)**](https://openreview.net/pdf?id=SklGryBtwr)   [**(reviews)**](https://openreview.net/forum?id=SklGryBtwr) 
