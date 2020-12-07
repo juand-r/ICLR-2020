@@ -325,6 +325,8 @@ There were a lot of papers about GNNs.  Here is a few I found interesting:
 :boom: [Generalization through Memorization: Nearest Neighbor Language Models](https://iclr.cc/virtual/poster_HklBjCEKvH.html)   [**(paper)**](http://www.openreview.net/pdf?id=HklBjCEKvH)   [**(reviews)**](http://www.openreview.net/forum?id=HklBjCEKvH)   [**(code)**](https://github.com/urvashik/knnlm)
 > 
 > **From the discussion:** see also "Forgetting Exceptions is Harmful in Language Learning" (1998) https://arxiv.org/abs/cs/9812021, on the same theme of generalization vs memorization.
+>
+> Some interesting related work: [BERT-kNN](https://www.aclweb.org/anthology/2020.findings-emnlp.307.pdf) and [RAG](https://arxiv.org/abs/2005.11401)
 
 
 :boom: [ALBERT: A Lite BERT for Self-supervised Learning of Language Representations](https://iclr.cc/virtual/poster_H1eA7AEtvS.html)   [**(paper)**](http://www.openreview.net/pdf?id=H1eA7AEtvS)   [**(reviews)**](http://www.openreview.net/forum?id=H1eA7AEtvS)   [**(code)**](https://github.com/google-research/ALBERT)
