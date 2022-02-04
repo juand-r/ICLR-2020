@@ -330,7 +330,7 @@ There were a lot of papers about GNNs.  Here is a few I found interesting:
 >
 > See also: [What Neural Networks Memorize and Why: Discovering the Long Tail via Influence Estimation](https://arxiv.org/pdf/2008.03703.pdf)
 >
-> https://arxiv.org/pdf/2107.12580.pdf
+> [Pointer Value Retrieval: A new benchmark for understanding the limits of neural network generalization](https://arxiv.org/pdf/2107.12580.pdf)
 
 
 
